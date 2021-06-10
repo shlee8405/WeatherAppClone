@@ -1,3 +1,4 @@
 # WeatherAppClone
-wheather app with vanilla js
+WeatherWebApp with VanillaJS
 
+Weather data's been pulled from OpenWeatherMap.org
